@@ -20,5 +20,7 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Dr. Neha Sharma | Faculty | Chemical Engineering | Meerut Institute of Engineering and Technology, Meerut
+2 | Atul Pratap Singh | Student| CSE(AI/ML) | Meerut Institute of Engineering and Technology, Meerut | atul.singh.cseaiml.2020@miet.ac.in
+3 | Satyam Sangwan | Student | CSE | Meerut Institute of Engineering and Technology, Meerut | satyam.sangwan.cse.2020@miet.ac.in
+4 | Veer Pratap Singh | Student | CSE(AI/ML) | Meerut Institute of Engineering and Technology, Meerut | veer.singh.cseaiml.2020@miet.ac.in
