@@ -11,6 +11,7 @@ When a liquid flows from a vessel or a tank, through an orifice it changes its d
 
 ### Actual Discharge (Qa): 
 The water flowing through the section of a pipe or a channel under the steady state conditions is collected in a collecting tank for a known time t. The rise of water level in the collecting tank is noted down. The actual discharge is
+<br>
 <img src="images/test.png"/>
 
 ### Coefficient of Discharge (Cd): 
