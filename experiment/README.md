@@ -9,6 +9,8 @@ Orifice is an opening or a hole of any size, shape or form through which liquid 
 
 When a liquid flows from a vessel or a tank, through an orifice it changes its direction. Due to this change of direction of the liquid, the jet is acted upon by lateral or side forces, which gradually reduce its area up to certain section. This area does not reduce further beyond, which the jet ceases and streamlines, first become parallel is known as the vena contracta.
 
+<img src="images/test3.png"/>
+
 ### Actual Discharge (Qa): 
 The water flowing through the section of a pipe or a channel under the steady state conditions is collected in a collecting tank for a known time t. The rise of water level in the collecting tank is noted down. The actual discharge is
 <br>
@@ -18,3 +20,8 @@ The water flowing through the section of a pipe or a channel under the steady st
 The ratio of actual discharge (Qa) through an orifice to the theoretical discharge (Qt) is known as coefficient of discharge. It is denoted by Cd.
 
 <img src="images/test2.png"/>
+
+### Coefficient of Velocity (Cv): 
+The ratio of actual velocity (V) of the jet at vena contracta to the theoretical velocity (Vth) is known as ‘coefficient of velocity’. It is denoted by Cv.
+
+<img src="images/test6.png"/>
