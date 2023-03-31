@@ -21,11 +21,17 @@ Chemical Engineering Fluid Mechanics Lab (KCH-351)
 ### Universities Mapped :
 Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b>  Dr. Neha Sharma
 :--|:--|
-<b> Institute | <b> Dr. Neha Sharma 
+<b> Institute | <b> Meerut Institute of Engineering and Technology
 <b> Email id|     <b>  neha.sharma.ch@miet.ac.in
 <b> Department |  Chemical Engineering
+
+<b>Mentored by | <b> Mrs. Senthil Subramanian
+:--|:--|
+<b> Institute | <b> IIT Kanpur 
+<b> Email id|     <b> sheetals@iitk.ac.in
+
 
 ### Contributors List
 
