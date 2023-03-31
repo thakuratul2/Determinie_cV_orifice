@@ -15,4 +15,6 @@ The water flowing through the section of a pipe or a channel under the steady st
 <img src="images/test.png"/>
 
 ### Coefficient of Discharge (Cd): 
-The ratio of actual discharge (Qa) through an orifice to the theoretical discharge (Qt) is known as coefficient of discharge. It is denoted by Cd. 
+The ratio of actual discharge (Qa) through an orifice to the theoretical discharge (Qt) is known as coefficient of discharge. It is denoted by Cd.
+
+<img src="images/test2.png"/>
