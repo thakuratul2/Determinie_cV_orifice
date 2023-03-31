@@ -9,7 +9,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The experiment you are referring to is likely an Orifice and Free Jet Flow experiment. In this experiment, the coefficients of velocity and discharge are determined by measuring the trajectory of a jet issuing fluid from an orifice in the side of a reservoir under steady flow conditions, i.e., a constant reservoir head
 
 
 ### Target Audience :
@@ -23,9 +23,9 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Dr. Neha Sharma 
+<b> Email id|     <b>  neha.sharma.ch@miet.ac.in
+<b> Department |  Chemical Engineering
 
 ### Contributors List
 
