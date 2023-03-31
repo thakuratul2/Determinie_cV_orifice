@@ -11,11 +11,6 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
-:--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
 
 ### Target Audience :
 UG and PG students of chemical engineering.
@@ -25,6 +20,12 @@ Chemical Engineering Fluid Mechanics Lab (KCH-351)
 
 ### Universities Mapped :
 Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+
+<b>Name of Developer | <b> Fill the name of experiment owner here 
+:--|:--|
+<b> Institute | <b>  
+<b> Email id|     <b>  
+<b> Department |  
 
 ### Contributors List
 
