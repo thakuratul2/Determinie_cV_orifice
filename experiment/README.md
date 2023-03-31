@@ -60,3 +60,18 @@ Reading on the piezometer at the level on the centre of orifice = 8 cm
 ### CALCULATIONS
 
 <img src="images/cal.png"/>
+
+### RESULTS
+
+Coefficient of discharge of orifice (Cd) = ________
+Coefficient of velocity of orifice (Cv) = ________
+Co-efficient of contraction (Cc) = ________
+
+### PRECAUTIONS
+
+1.	Never run the apparatus if power supply is less than 180 volts and above 230 volts.
+2.	Conduct the experiment when water gets stable.
+3.	Always use clean water.
+4.	To prevent clogging of moving parts, run pump at least once in a fortnight.
+5.	Drain the apparatus completely after experimentation.
+6.	Always keep apparatus free from dust.
