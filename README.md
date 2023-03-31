@@ -17,6 +17,15 @@ Fill a brief description of this experiment here
 <b> Email id|     <b>  
 <b> Department |  
 
+### Target Audience :
+UG and PG students of chemical engineering.
+
+### Course Alignment : 
+Chemical Engineering Fluid Mechanics Lab (KCH-351)
+
+### Universities Mapped :
+Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
