@@ -27,7 +27,7 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 <b> Email id|     <b>  neha.sharma.ch@miet.ac.in
 <b> Department |  Chemical Engineering
 
-<b>Mentored by | <b> Mrs. Senthil Subramanian
+<b>Mentored by | <b> Mrs. Sheetal Singh
 :--|:--|
 <b> Institute | <b> IIT Kanpur 
 <b> Email id|     <b> sheetals@iitk.ac.in
