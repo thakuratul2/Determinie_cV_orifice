@@ -36,5 +36,18 @@ b)	Equal to one<br>
 c)	Greater than one<br>
 d)	Less than one<br>
 
+7. The discharge through a large rectangular orifice is? where b=width of orifice,H1=Height of liquid above top edge of the orifice,H2=Height of liquid above bottom edge of the orifice.
 
+<img src="images/one.png"/>
 
+8. The discharge through fully submerged orifice is? where H=Difference of liquid levels on both sides of the orifice, H1=Height of liquid above top edge orifice of upstream side, H2=Height of liquid above bottom edge of orifice on upstream side.
+
+<img src="images/two.png"/>
+
+9. The co-efficient of discharge (Cd) in terms of (Cv) and (Cc) is ?
+
+<img src="images/three.png"/>
+
+10. The co-efficient of velocity (Cv) for an orifice is ? 
+
+<img src="images/four.png"/>
