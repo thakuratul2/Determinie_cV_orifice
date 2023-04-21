@@ -4,9 +4,12 @@
         height: 666px;
         width: 800px;
         border: 2px black solid;
-        background-repeat: no-repeat;
-        background-image: url("../images/model.svg");
-        background-size: 100%;
+        
+      }
+      .baseimg{
+        position: relative;
+        top: 86px;
+        height: 412px;
       }
       #value{
         position: relative;
@@ -39,12 +42,13 @@
         outline: none;
       }
       #outlet {
-        top: 421px;
-        left: 555px;
+           top: 320px;
+    left: 522px;
       }
       #motbut {
-        top: 534px;
-        left: 225px;
+        top: 397px;
+        left: 197px;
+    
       }
       #outlab {
         opacity: 0;
@@ -54,15 +58,15 @@
         border: 1px black solid;
       }
       #motlab {
-        top: 478px;
+        top: 368px;
         left: 150px;
         background-color: rgb(230, 230, 62);
         border: 1px black solid;
       }
       #gatelab {
         opacity: 0;
-        top: 370;
-        left: 550;
+        top: 323px;
+    left: 359px;
         background-color: rgb(230, 230, 62);
         border: 1px black solid;
       }
@@ -140,46 +144,47 @@
       }
       .leftfill {
         left: 140;
-        width: 75px;
+        width: 121px;
         background-size: 70%;
-        height: 20px;
+        
       }
 
       #mot1 {
-        top: 535px;
-        left: 84px;
+        top: 391px;
+        left: 98px;
         opacity: 0;
-        width:89px;
+        width:70px;
         height: 25px;
         background-size: 120%;
       }
       #mot13 {
-        top: 125px;
-        left: 60px;
+        top: 96px;
+        left: 125px;
         opacity: 0;
-        width: 150px;
+        width: 136px;
+        
         height: 25px;
         background-size: 30%;
       }
       #mot2 {
-        top: 477px;
-    left: 60px;
+        top:325px;
+    left: 99px;
     opacity: 0;
     width: 20px;
     height: 69px;
     background-size: 320%;
       }
       #mot3 {
-        top: 430px;
-        left: 60px;
+        top: 277px;
+        left: 99px;
         opacity: 0;
         width: 20px;
         height: 40px;
         background-size: 320%;
       }
       #mot4 {
-        top: 390px;
-        left: 60px;
+        top: 236px;
+        left: 99px;
         opacity: 0;
         width: 20px;
         height: 40px;
@@ -189,45 +194,61 @@
         top: 350px;
         left: 60px;
         opacity: 0;
-        width: 20px;
-        height: 40px;
+        
         background-size: 320%;
       }
       #mot6 {
         top: 310px;
         left: 60px;
         opacity: 0;
-        width: 20px;
-        height: 40px;
+      
         background-size: 320%;
       }
       #mot7 {
         top: 270px;
         left: 60px;
         opacity: 0;
-        width: 20px;
-        height: 40px;
+        
         background-size: 320%;
+      }
+      .holder{
+        position: absolute;
+        margin-left: 342px;
+        /* margin-bottom: 9px; */
+        bottom: 447px;
+    
+      }
+      .holderimg{
+        width: 58px;
+        height: 151px;
+      }
+      .scale{
+        position: relative;
+        bottom: 338px;
+      }
+      .scaleimg{
+        height: 132px;
+        width: 19px;
       }
       #mot31{
         top: 270px;
         left: 630px;
         
         width: 20px;
-        height: 40px;
+      
         background-size: 320%;
       }
       #mot8 {
-        top: 230px;
-        left: 60px;
+        top: 104px;
+        left: 102px;
         opacity: 0;
-        width: 20px;
-        height: 40px;
+        height: 50px;
+        width: 18px;
         background-size: 320%;
       }
       #mot9 {
         top: 190px;
-        left: 60px;
+        left: 98px;
         opacity: 0;
         width: 20px;
         height: 40px;
@@ -235,7 +256,7 @@
       }
       #mot10 {
         top: 150px;
-        left: 60px;
+        left: 101px;
         opacity: 0;
         width: 20px;
         height: 40px;
@@ -291,3 +312,46 @@
       border: 2px black solid;
       z-index:1;
      } 
+
+      /*slider*/
+
+      .slider-container {
+        width: 34%;
+        position:absolute;
+       left:261px;
+        top:136px;
+      }
+      
+      .slider {
+        -webkit-appearance: none;
+        width: 100%;
+        height: 15px;
+        border-radius: 5px;
+        background: #d3d3d3;
+        outline: none;
+        opacity: 0.7;
+        -webkit-transition: .2s;
+        transition: opacity .2s;
+      }
+      
+      .slider:hover {
+        opacity: 1;
+      }
+      
+      .slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 25px;
+        height: 50px;
+       
+        background: url('../images/Scale.png');
+        cursor: pointer;
+      }
+      
+      .slider::-moz-range-thumb {
+        width: 25px;
+        height: 50px;
+       
+        background: url('../images/Scale.png');
+        cursor: pointer;
+      }
