@@ -57,6 +57,50 @@
     },
     "correctAnswer":"d",
     "difficulty":"beginner"
+  },
+  {
+    "question": "The discharge through a large rectangular orifice is? where b=width of orifice,H1=Height of liquid above top edge of the orifice,H2=Height of liquid above bottom edge of the orifice.",
+    "answers":{
+      "a":"2/3 C_d×b×√2g(√(H_2 )-√H_1",
+      "b": 	"8/15 C_d×b×√2g(〖H_2〗^(3/2)-〖H_1〗^(3/2))",
+      "c": "2/3 C_d×b×√2g(〖H_2〗^(3/2)-〖H_1〗^(3/2))",
+      "d":"None of the above"
+    },
+    "correctAnswer":"c",
+    "difficulty":"beginner"
+  },
+  {
+    "question":"The discharge through fully submerged orifice is? where H=Difference of liquid levels on both sides of the orifice, H1=Height of liquid above top edge orifice of upstream side, H2=Height of liquid above bottom edge of orifice on upstream side.",
+    "answers":{
+      "a": "C_d×b×(H_2-H_1)×√2g×H^(3/2)",
+      "b":"C_d×b×(H_2-H_1)×√2gH",
+      "c": "C_d×b×(H_2^(3/2)-H_1^(3/2))×√2gH",
+      "d": "None of the above"
+    },
+    "correctAnswer":"b",
+    "difficulty":"beginner"
+  },
+  {
+    "question":"The co-efficient of discharge (Cd) in terms of (Cv) and (Cc) is ?",
+    "answers":{
+      "a":"C_d=C_v/C_c",
+      "b":"C_d=C_c×C_v",
+      "c":"C_d=C_c/C_v",
+      "d":"None of the above"
+    },
+    "correctAnswer":"b",
+    "difficulty":"beginner"
+  },
+  {
+    "question":"The co-efficient of velocity (Cv) for an orifice is ?",
+    "answers":{
+      "a":"C_v=√(4x^2)/yH",
+      "b":"C_v=2x/(√4yH)",
+      "c":"C_v=√x^2/4yH",
+      "d":"None of the above"
+    },
+    "correctAnswer":"b",
+    "difficulty":"beginner"
   }
 ]
 }
