@@ -1,0 +1,62 @@
+{
+
+"version": 2.0,
+"questions": [
+  {
+    "question": "The ratio of actual discharge of a jet of water at vena-contracta to the theoretical discharge is known as ?",
+    "answers": {
+      "a": "co-efficient of discharge",
+      "b": "co-efficient of velocity",
+      "c": "co-efficient of contraction",
+      "d": "co-efficient of viscosity"
+    },
+    
+    "correctAnswer": "a",
+    "difficulty": "beginner"
+  },
+  {
+    "question": "The ratio of actual velocity of a jet of water at vena-contracta to the theoretical velocity is known as ?",
+    "answers": {
+      "a": "co-efficient of discharge",
+      "b": "co-efficient of velocity",
+      "c": "co-efficient of contraction",
+      "d": "co-efficient of viscosity"
+    },
+    
+    "correctAnswer": "b",
+    "difficulty": "beginner"
+  },
+  {
+    "question":"Orifices are used to measure ?",
+    "answers":{
+      "a": "velocity",
+      "b": "Pressure",
+      "c": "Rate of flow",
+      "d":"None of the above"
+    },
+    "correctAnswer":"c",
+    "difficulty":"beginner"
+  },{
+    "question": "The co-efficient of discharge (Cd)?",
+    "answers":{
+      "a": "co-efficient of discharge",
+      "b": "co-efficient of velocity",
+      "c": "co-efficient of contraction",
+      "d": "co-efficient of viscosity"
+    },
+    "correctAnswer": "c",
+    "difficulty":"beginner"
+  },
+  {
+    "question":"In case of flow through orifices, the coefficient of velocity at vena-contacta is",
+    "answers":{
+      "a": "Equal to zero",
+      "b": "Equal to one",
+      "c":"Greater than one",
+      "d": "Less than one"
+    },
+    "correctAnswer":"d",
+    "difficulty":"beginner"
+  }
+]
+}
