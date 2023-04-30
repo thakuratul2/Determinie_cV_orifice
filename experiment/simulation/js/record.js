@@ -54,20 +54,20 @@ function datasheet() {
   var r=20;
   var qa= (area*r)/t;
   var qa=parseFloat(qa).toFixed( 3 );
-  document.getElementById("qa").innerHTML = qa;
+  //document.getElementById("qa").innerHTML = qa;
 
-  var areaor=1.2667;
-  var g=9.81;
-  var c= areaor* Math.sqrt(19.62);          // 2*g= 19.62
-  var H=75.015;                          // H=head
+  var areaor=1.259;
+  var g=981;
+  var c= areaor* Math.sqrt(2*g);          
+  var H=75.015;                          
   var qth= c * Math.sqrt(H);              
   var qth=parseFloat(qth).toFixed( 3 );
-  document.getElementById("qth").innerHTML = qth;
+  //document.getElementById("qth").innerHTML = qth;
 
   
   var cd=qa/qth;
   var cd=parseFloat(cd).toFixed( 3 );
-  document.getElementById("cd").innerHTML = cd;
+  //document.getElementById("cd").innerHTML = cd;
   
   var de=4*y*H;
   var cv= x/Math.sqrt(de);
@@ -96,20 +96,20 @@ else if(slider.value==67.5)
   var r=20;
   var qa= (area*r)/t;
   var qa=parseFloat(qa).toFixed( 3 );
-  document.getElementById("qa").innerHTML = qa;
+  //document.getElementById("qa").innerHTML = qa;
 
-  var areaor=1.2667;
-  var g=9.81;
-  var c= areaor* Math.sqrt(19.62);
+  var areaor=1.259;
+  var g=981;
+  var c= areaor* Math.sqrt(2*g);
   var H=67.915;                          // H=head
   var qth= c * Math.sqrt(H); 
   var qth=parseFloat(qth).toFixed( 3 );
-  document.getElementById("qth").innerHTML = qth;
+  //document.getElementById("qth").innerHTML = qth;
 
   
   var cd=qa/qth;
   var cd=parseFloat(cd).toFixed( 3 );
-  document.getElementById("cd").innerHTML = cd;
+  //document.getElementById("cd").innerHTML = cd;
   
   var de=4*y1*H;
   var cv= x1/Math.sqrt(de);
@@ -140,20 +140,20 @@ else if(slider.value==67.5)
   var r=20;
   var qa= (area*r)/t;
   var qa=parseFloat(qa).toFixed( 3 );
-  document.getElementById("qa").innerHTML = qa;
+  //document.getElementById("qa").innerHTML = qa;
 
-  var areaor=1.2667;
-  var g=9.81;
-  var c= areaor* Math.sqrt(19.62);
+  var areaor=1.259;
+  var g=981;
+  var c= areaor* Math.sqrt(2*g);
   var H=51.765;                          
   var qth= c * Math.sqrt(H); 
   var qth=parseFloat(qth).toFixed( 3 );
-  document.getElementById("qth").innerHTML = qth;
+  //document.getElementById("qth").innerHTML = qth;
 
   
   var cd=qa/qth;
   var cd=parseFloat(cd).toFixed( 3 );
-  document.getElementById("cd").innerHTML = cd;
+  //document.getElementById("cd").innerHTML = cd;
   
   var de=4*y2*H;
   var cv= x2/Math.sqrt(de);
@@ -183,20 +183,20 @@ else if(slider.value==63.1)
   var r=20;
   var qa= (area*r)/t;
   var qa=parseFloat(qa).toFixed( 3 );
-  document.getElementById("qa").innerHTML = qa;
+  //document.getElementById("qa").innerHTML = qa;
 
-  var areaor=1.2667;
-  var g=9.81;
-  var c= areaor* Math.sqrt(19.62);
+  var areaor=1.259;
+  var g=981;
+  var c= areaor* Math.sqrt(2*g);
   var H=60.815;                          
   var qth= c * Math.sqrt(H); 
   var qth=parseFloat(qth).toFixed( 3 );
-  document.getElementById("qth").innerHTML = qth;
+  //document.getElementById("qth").innerHTML = qth;
 
   
   var cd=qa/qth;
   var cd=parseFloat(cd).toFixed( 3 );
-  document.getElementById("cd").innerHTML = cd;
+  //document.getElementById("cd").innerHTML = cd;
   
   var de=4*y3*H;
   var cv= x3/Math.sqrt(de);
@@ -212,5 +212,16 @@ else{
   document.getElementById("read1").style.visibility = "hidden";
 }
 }
+
+function submit(){
+  var cdtext = document.getElementById("cd");
+  if(cdtext.value>1){
+    alert("Value of cd should be less than 1");
+  }
+  else{
+    alert("Submitted");
+  }
+}
+
 
 

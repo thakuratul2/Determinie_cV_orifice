@@ -9,7 +9,7 @@
 <body>
   <center>
     <h1 style="color: red;"><u>
-        Experiment : Flow through Orifice
+        Experiment : Flow Through Open Orifice
       </u>
     </h1>
   </center>
@@ -157,8 +157,8 @@
       <h2>Data Sheet</h2>
       <h3>Area of measuring tank= 2500cm<sup>2</sup></h3>
       <h3>Rise(R) in water=20cm</h3>
-      <h3>Area of orifice=1.2267cm<sup>2</sup></h3>
-  
+      <h3>Diameter of orifice=1.2667cm<sup>2</sup></h3>
+      <h3>g=981 cm/s<sup>2</sup></h3>
       <table id="tab">
         <tr>
           <th rowspan="2" >SNo.</th>
@@ -183,15 +183,16 @@
           <td id="x"> </td>
           <td id="y"> </td>
           <td id="t"> </td>
-          <td id="qa"> </td>
-          <td id="qth"> </td>
-          <td id="cd"> </td>
+          <td id="qa"><input type="text" placeholder="Enter calculated value"> </td>
+          <td id="qth"> <input type="text" placeholder="Enter calculated value"></td>
+          <td ><input type="text" id="cd" placeholder="Enter calculated value"> </td>
           <td id="cv"> <input type="text" placeholder="Enter calculated value"></td>
           <td id="cc"><input type="text" placeholder="Enter calculated value"> </td>
         </tr>
       
    
       </table>
+      <center><button class="tab-button" id="button" onclick="submit()" >Submit</button></center>
       <br /><br />
 
 
@@ -199,7 +200,7 @@
     </div>
 
 
-    <!--button onclick="clicked()">Plot</button><br /-->
+   
   </div>
   </div>
   <script src="js/record.js"></script>
